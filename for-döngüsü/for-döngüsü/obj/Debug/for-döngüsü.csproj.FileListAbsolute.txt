@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\for-döngüsü\for-döngüsü\bin\Debug\for-döngüsü.exe.config
+C:\Users\User\source\repos\for-döngüsü\for-döngüsü\bin\Debug\for-döngüsü.exe
+C:\Users\User\source\repos\for-döngüsü\for-döngüsü\bin\Debug\for-döngüsü.pdb
+C:\Users\User\source\repos\for-döngüsü\for-döngüsü\obj\Debug\for-döngüsü.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\for-döngüsü\for-döngüsü\obj\Debug\for-döngüsü.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\for-döngüsü\for-döngüsü\obj\Debug\for_döngüsü.Form1.resources
+C:\Users\User\source\repos\for-döngüsü\for-döngüsü\obj\Debug\for_döngüsü.Properties.Resources.resources
+C:\Users\User\source\repos\for-döngüsü\for-döngüsü\obj\Debug\for-döngüsü.csproj.GenerateResource.cache
+C:\Users\User\source\repos\for-döngüsü\for-döngüsü\obj\Debug\for-döngüsü.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\for-döngüsü\for-döngüsü\obj\Debug\for-döngüsü.exe
+C:\Users\User\source\repos\for-döngüsü\for-döngüsü\obj\Debug\for-döngüsü.pdb
